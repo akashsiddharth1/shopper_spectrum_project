@@ -1,6 +1,6 @@
 # shopper_spectrum_project
 
-🧠 Customer Segmentation & 🎯 Product Recommendation System
+Customer Segmentation & Product Recommendation System
 This project combines Unsupervised Machine Learning (Clustering) and Collaborative Filtering (Recommendation System) to analyze retail customer behavior and provide personalized product suggestions. The final solution is deployed as a user-friendly Streamlit web app.
 
 🔍 Problem Statement
